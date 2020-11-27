@@ -1,0 +1,5 @@
+how to use:
+1. upload your script to vulnurable web
+2. find the path to the uploaded script on the web
+3. execute nc in your system (nc -v -l -p *port*) *note the port must be the same as the port used in the script
+4. load the path to your uploaded script in the web
